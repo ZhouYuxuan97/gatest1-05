@@ -1,4 +1,4 @@
 # gatest1-05
 
-adddddd
+addddddd
 d
